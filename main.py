@@ -221,3 +221,4 @@ game_instance.mainloop()
 #  Fix UI alignment for small screens
 # Implement local leaderboard with SharedPreferences
 # Add sound effects for player moves
+# Refactor game logic into modular classes
