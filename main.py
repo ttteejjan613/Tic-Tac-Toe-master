@@ -218,3 +218,4 @@ game_instance.mainloop()
 # Add player name customization dialog
 #  Fix reset button to clear statered 
 # Optimize AI with alpha-beta pruning
+#  Fix UI alignment for small screens
