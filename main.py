@@ -212,3 +212,6 @@ class Tic_Tac_Toe():
 
 game_instance = Tic_Tac_Toe()
 game_instance.mainloop()
+
+
+# Fix diagonal win detection
