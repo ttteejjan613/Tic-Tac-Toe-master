@@ -219,3 +219,4 @@ game_instance.mainloop()
 #  Fix reset button to clear statered 
 # Optimize AI with alpha-beta pruning
 #  Fix UI alignment for small screens
+# Implement local leaderboard with SharedPreferences
