@@ -220,3 +220,4 @@ game_instance.mainloop()
 # Optimize AI with alpha-beta pruning
 #  Fix UI alignment for small screens
 # Implement local leaderboard with SharedPreferences
+# Add sound effects for player moves
