@@ -215,3 +215,4 @@ game_instance.mainloop()
 
 
 # Fix diagonal win detection
+# Add player name customization dialog
