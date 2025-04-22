@@ -217,3 +217,4 @@ game_instance.mainloop()
 # Fix diagonal win detection
 # Add player name customization dialog
 #  Fix reset button to clear state
+# Optimize AI with alpha-beta pruning
